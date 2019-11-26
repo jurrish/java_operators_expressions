@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/operators_expressios.iml" filepath="$PROJECT_DIR$/operators_expressios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/string_conversions/string_conversions.iml" filepath="$PROJECT_DIR$/string_conversions/string_conversions.iml" />
+    </modules>
+  </component>
+</project>
